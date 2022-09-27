@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Trabajo-SanJ
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... sudo pacman -S --needed base-devel git
 
 <!---
 Trabajo-SanJ/Trabajo-SanJ is a ✨ Especial de ALFREDO ✨
