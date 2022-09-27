@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trabajo-SanJ
+- 👋 Hi, I’m @Trabajo-SanJ ✨ Especial de ALFREDO ✨
 - 👀 I’m interested in ... sudo pacman -S --needed base-devel git
 
 <!---
